@@ -1,0 +1,7 @@
+.game-btn:hover {
+    background-color: white;
+}
+
+.game-btn:active {
+    background-color: lightgrey;
+}
